@@ -19,37 +19,37 @@
 }
 .post-md h1
 {
-    font-size: 2.5rem;
+    font-size: 2rem;
     line-height: 1.2;
     padding: 24px 0;
 }
 .post-md h2
 {
-    font-size: 2rem;
+    font-size: 1.75rem;
     line-height: 1.2;
     padding: 20px 0;
 }
 .post-md h3
 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     line-height: 1.2;
     padding: 18px 0;
 }
 .post-md h4
 {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     line-height: 1.2;
     padding: 16px 0;
 }
 .post-md h5
 {
-    font-size: 1.25rem;
+    font-size: 1.125rem;
     line-height: 1.2;
     padding: 14px 0;
 }
 .post-md h6
 {
-    font-size: 1.125rem;
+    font-size: 1rem;
     line-height: 1.2;
     padding: 12px 0;
 }
@@ -138,29 +138,30 @@
 }
 .post-md>table th
 {
-    padding: 12px 0;
-    border-bottom: 2px solid var(--line-1);
+    padding: 12px 10px;
+    border: 1px solid var(--line-1);
+    background-color:#fbfbfb;
 }
 .post-md>table tr:nth-child(odd) td
 {
-    padding: 12px 0;
-    border-bottom: 1px solid var(--line-1);
-    background: #fafafa;
+    padding: 12px 10px;
+    border: 1px solid var(--line-1);
+    background: #ffffff;
 }
 .post-md>table tr:nth-child(even) td
 {
-    padding: 12px 0;
-    border-bottom: 1px solid var(--line-1);
-    background: #fff;
+    padding: 12px 10px;
+    border: 1px solid var(--line-1);
+    background: #ffffff;
 }
-
 .post-md code
 {
     border-radius: 4px;
-    background: #2b2b2b;
+    background: #fbfbfb;
     padding: 2px 4px;
-    color: #f8f8f2;
+    color: #333333;
     font-size: 1rem;
+    border: 1px solid var(--line-1);
 }
 
 .post-md .hljs-ln-numbers

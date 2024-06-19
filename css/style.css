@@ -5,9 +5,9 @@
     --font-color-0: #000;
     --font-color-1: #1f1f1f;
     --font-color-2: #333;
-    --font-color-3: #999;
+    --font-color-3: #bbb;
     --bg-color-1: #eee;
-    --line-1: #ddd;
+    --line-1: #f3f3f3;
     --line-2: #f3f3f3;
 }
 p
@@ -18,9 +18,9 @@ p
 
 body
 {
-    font-family: "source-han-sans-simplified-c', 'PingFang SC', 'Hiragino Sans GB', 'PingHei', 'Open Sans', sans-serif, Helvetica Neue, 'Work Sans', 'Microsoft YaHei',SimSun, Montserrat", "SF UI Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Segoe UI", "Helvetica Neue", Helvetica, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+    font-family: -apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Hiragino Kaku Gothic ProN","Hiragino Sans",Arial,Meiryo,sans-serif;
     font-size: 16px;
-    line-height: 1.75;
+    line-height: 2rem;
     letter-spacing: 0.1px;
     color: var(--font-color-2);
     background: #f6f7f9;
@@ -40,7 +40,7 @@ a
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 72px 5vw 24px;
+    padding: 72px 5vw 0px;
     background: #fff;
     border-radius: 4px;
     background: #fff;
@@ -49,8 +49,8 @@ a
 
 .header
 {
-    padding-bottom: 48px;
-    margin-bottom: 48px;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
     border-bottom: 1px solid var(--line-1);
     display: flex;
     flex-direction: row;
@@ -60,10 +60,10 @@ a
 }
 .logo
 {
-    font-size: 2.4rem;
+    font-size: 2rem;
     font-weight: 600;
     color: var(--font-color-1);
-    margin-bottom: 16px;
+    margin-bottom: 30px;
     flex: 0 0 100%;
 }
 .nav
@@ -147,8 +147,8 @@ a
 .post
 {
     width: 100%;
-    padding-bottom: 48px;
-    margin-bottom: 48px;
+    padding-bottom: 0px;
+    margin-bottom: 40px;
     border-bottom: 1px dashed var(--line-2);
 }
 .post-title
@@ -169,12 +169,12 @@ a
 .post-except
 {
     word-break: break-all;
-    margin-bottom: 12px;
+    margin-bottom: 20px;
 }
 .read-more
 {
-    padding: 0 4px;
-    color: var(--font-color-0);   
+    padding: 0 0px;
+    color: var(--font-color-2);   
 }
 .read-more:before,
 .read-more:after
@@ -184,11 +184,11 @@ a
 }
 .read-more:before
 {
-    content: "{ ";
+    content: "";
 }
 .read-more:after
 {
-    content: " }";
+    content: "";
 }
 .read-more:hover:before
 {
@@ -252,8 +252,8 @@ a
 
 .footer
 {
-    padding: 24px 0;
-    font-size: 0.875rem;
+    padding: 60px 0px 40px 0px;
+    font-size: 0.813rem;
     color: var(--font-color-3);
     display: flex;
     flex-direction: column;
@@ -264,7 +264,7 @@ a
 .footer span
 {
     text-align: center;
-    margin-bottom: 8px;
+    margin-bottom: 0px;
 }
 .footer a
 {
@@ -290,7 +290,7 @@ a
 {
     flex: 0 0 100%;
     margin-bottom: 12px;
-    font-size: 1.6rem;
+    font-size: 2rem;
     font-weight: 600;
     line-height: 1.5;
     color: var(--font-color-1);
@@ -300,7 +300,15 @@ a
     font-size: 0.875rem;
     color: var(--font-color-3);
     flex: 0 0 100%;
-    margin-bottom: 32px;
+    margin-bottom: 40px;
+}
+
+.post-content-meta
+{
+    font-size: 0.875rem;
+    color: var(--font-color-3);
+    flex: 0 0 100%;
+    margin-bottom: 10px;
 }
 
 .archive
@@ -318,11 +326,11 @@ a
     flex-wrap: nowrap;
     justify-content: flex-start;
     align-content: center;
-    padding: 12px 0;
+    padding-bottom: 4px;
 }
 .archive li:nth-child(odd)
 {
-    background: #fafafa;
+    background: #fff;
 }
 .archive li:nth-child(even)
 {
@@ -331,11 +339,16 @@ a
 .archive li span
 {
     width: 108px;
-    color: var(--font-color-2);
+    color: var(--font-color-3);
 }
 .archive-main
 {
     flex: 0 1 calc( 100% - 108px );
+}
+.archive-list h2
+{
+    font-size: 1.4rem;
+    font-weight: 600;
 }
 .archive-title
 {
@@ -348,21 +361,98 @@ a
     transition: color ease-in-out .5s;
 }
 
-.tag-cloud {
-  list-style: none;
-  padding: 0;
+.tags li
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-content: center;
+    padding: 10px 0px;
+}
+.tags li:nth-child(odd)
+{
+    background: #fff;
+}
+.tags li:nth-child(even)
+{
+    background: #fff;
+}
+.tags li span
+{
+    width: 108px;
+    color: var(--font-color-2);
+}
+.tags-main
+{
+    flex: 0 1 calc( 100% - 108px );
+}
+.tags-title
+{
+    color: var(--font-color-1);
+    /*transition: color ease-in-out .5s;*/
+}
+.tags-title:hover
+{
+    color: var(--font-color-0);
+    transition: color ease-in-out .5s;
 }
 
-.tag-cloud li {
-  display: inline-block;
-  margin: 5px;
+.post-meta {
+    display: flex;
+    align-items: center;
 }
 
-.tag-cloud a {
-  text-decoration: none;
-  color: #333;
+.post-date {
+    margin-right: 20px;
+    font-size: 12px;
+    color: #999;
 }
 
-.tag-cloud a:hover {
-  text-decoration: underline;
+.post-tags {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 12px;
+    color: #999;
+}
+
+.post-tag {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #999;
+}
+
+.post-tag:hover {
+    text-decoration: underline;
+}
+.tag-emoji {
+    margin-right: 4px;
+    font-size: 12px;
+    color: #bbbbbb; 
+}
+
+.tags-post {
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.post-content-meta.tags {
+    font-size: 0.875rem;
+    color: var(--font-color-3);
+    display:flex;
+    margin-top: 40px;
+}
+.post-content-meta.tags .emo{
+    margin-right: 4px;
+}
+.post-content-meta.tags a {
+    font-size: 0.875rem;
+    color: var(--font-color-3);
+    text-decoration: none; /* 去掉链接下划线 */
+}
+
+.post-content-meta.tags a:hover {
+    color: #999999; /* 悬停时改变颜色，可以根据需要自定义 */
+      text-decoration: underline; /* 悬停时显示下划线 */
 }
