@@ -88,35 +88,35 @@
     </a>
 </div>
 
-<script>
-'use strict';
 
-// 定义一个查询DOM元素的函数
-function query(selector) {
-    return Array.from(document.querySelectorAll(selector));
-}
+    <section id="comments">
+        <div id="valine_thread"></div>
+        <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+        <script>
+            var META_INFO = ['nick','mail','link'], 
+                meta = 'nick,mail,link'.split(',').filter(function(item){
+                    return META_INFO.indexOf(item) > -1
+                }),
+                serverURLs = '',
+                vConfig = {
+                    el: '#valine_thread',
+                    meta: meta,
+                    appId: "WhfAxAATNFjUxHMZx1Q4DqZ5-MdYXbMMI",
+                    appKey: "R4DdgB62dR3ZB8hu3SI7YAKU",
+                    placeholder: "Just go go",
+                    pageSize:'10',
+                    avatar:'mp',
+                    lang:'zh-CN',
+                    recordIP: 'false',
+                    enableQQ: 'false',
+                };
+            if(!!serverURLs) vConfig['serverURLs'] = serverURLs;
+            var v = new Valine(vConfig);
+            window.v = v
+        </script>
+    </section>
 
-// 创建一个IntersectionObserver实例来观察元素的交叉状态
-var io = new IntersectionObserver(function(entries) {
-    entries.forEach(function(entry) {
-        // 如果元素进入视口
-        if (entry.isIntersecting) {
-            var img = entry.target;
-            // 将图片的srcset属性设置为data-srcset的值
-            img.srcset = img.getAttribute('data-srcset');
-            // 给图片添加一个类表示已经加载
-            img.className += ' loaded';
-            // 停止观察这个图片
-            io.unobserve(img);
-        }
-    });
-});
 
-// 观察所有具有lazyload类的图片
-query('img.lazyload').forEach(function(item) {
-    io.observe(item);
-});
-</script>
                 <div class="footer">
     <span id="copyright-year">Copyright © <span id="year"></span> OrionWang  <a href="https://github.com/Alanrk/hexo-theme-onenote" target="_blank" >Theme-onenote</a></span>
     <script type="text/javascript">
