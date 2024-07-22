@@ -52,6 +52,9 @@ picture
     max-width: 100%;
     display: block;
     margin: 32px 0 32px 0;
+    border: 1px solid #f3f3f3;
+    padding: 20px 20px;
+    background: #fbfbfb;
 }
 
 input,
