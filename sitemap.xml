@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.orionwang.com/posts/2c62e61d.html</loc>
+    <loc>https://www.orionwang.com/about/index.html</loc>
     
     <lastmod>2024-07-22</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://www.orionwang.com/about/index.html</loc>
+    <loc>https://www.orionwang.com/posts/2c62e61d.html</loc>
     
-    <lastmod>2024-07-19</lastmod>
+    <lastmod>2024-07-22</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -127,13 +127,6 @@
   </url>
   
   <url>
-    <loc>https://www.orionwang.com/tags/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2024-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.orionwang.com/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -142,6 +135,13 @@
   
   <url>
     <loc>https://www.orionwang.com/tags/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/</loc>
+    <lastmod>2024-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.orionwang.com/tags/markdown%E8%AF%AD%E6%B3%95%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2024-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
