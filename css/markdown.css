@@ -92,6 +92,8 @@
 .post-md img
 {
     border-radius: 4px;
+    padding: 1rem;
+    border: 1px solid #f3f3f3;
 }
 .post-md hr
 {
