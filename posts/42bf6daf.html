@@ -5,16 +5,22 @@
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport" />
     <link rel="alternate icon" type="image/png" href="/img/favicon.png">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
-    <link rel="alternate" type="application/atom+xml" title=" OrionWang " href="/atom.xml">
+    <link rel="alternate" type="application/atom+xml" title="OrionWang" href="/atom.xml">
+    
     <!-- Title and Subtitle -->
     <title>Cloudflare如何设置主域名跳转到www域名 - OrionWang - Blog</title>
     
     <!-- Meta Tags -->
-    <meta name="description" content="一个创造者的博客，主要关注产品设计，工具分享，读书笔记，个人成长，摄影，数码产品">
+    <meta name="description" content="我的博客的域名是 www.orionwang.com ，我想让用户在地址栏输入 orionwang.com 时也能自动跳转到www.orionwang.com，即访问 https://orionwang.com 跳转到 https://www.orionwang.com 。下面记录我是如何配置的。
+1. 进入cloudflare的域名管理页面，添加访问记录
+点击管理&amp;gt;更新DNS配置
+
+点击添加记录
+
+类型选A，名称填@，IPV4地址因为我没有服务器，填8.8.8.8 或">
     <meta name="keywords" content="一个创造者的博客，主要关注产品设计，工具分享，读书笔记，个人成长，摄影，数码产品">
     <meta name="author" content="orionwang">
     <meta name="language" content="zh-CN">
-
     
     <!-- CSS Files -->
     
