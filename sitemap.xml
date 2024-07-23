@@ -106,6 +106,20 @@
   </url>
   
   <url>
+    <loc>https://www.orionwang.com/tags/%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2024-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.orionwang.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
+    <lastmod>2024-07-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.orionwang.com/tags/Hexo%E4%B8%BB%E9%A2%98/</loc>
     <lastmod>2024-07-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -121,20 +135,6 @@
   
   <url>
     <loc>https://www.orionwang.com/tags/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
-    <lastmod>2024-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.orionwang.com/tags/%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2024-07-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.orionwang.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</loc>
     <lastmod>2024-07-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
