@@ -286,7 +286,7 @@ a
     align-items: center;
     margin-bottom: 24px;
 }
-.post-main-title
+.post-main-title h1
 {
     flex: 0 0 100%;
     margin-bottom: 12px;

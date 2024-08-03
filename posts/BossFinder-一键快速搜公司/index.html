@@ -61,7 +61,7 @@
     
     
         <div class="post-main-title">
-            BossFinder-一键快速搜公司
+            <h1>BossFinder-一键快速搜公司</h1>
         </div>
         <div class="post-content-meta">
             2024-08-01
@@ -96,12 +96,19 @@
 
 </div>
 <div class="post-header">
-    <a class="go-home" href="javascript:history.back()">
+    <a class="go-home" href="javascript:history.back();">
         <svg width="8" height="14" viewBox="0 0 8 14">
             <path d="M7 1L1 7l6 6" stroke="#000" stroke-width="2" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
     </a>
 </div>
+
+<script>
+    // 检查历史记录
+    if (window.history.length <= 1) {
+        document.querySelector('.go-home').setAttribute('href', '/'); // 修改为你自己网站的首页链接
+    }
+</script>
 
 
     <section id="comments">
@@ -130,7 +137,6 @@
             window.v = v
         </script>
     </section>
-
 
 
                 <div class="footer">
