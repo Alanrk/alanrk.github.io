@@ -6,7 +6,7 @@
   <link href="https://www.orionwang.com/atom.xml" rel="self"/>
   
   <link href="https://www.orionwang.com/"/>
-  <updated>2024-10-21T04:18:15.969Z</updated>
+  <updated>2024-10-21T04:25:47.996Z</updated>
   <id>https://www.orionwang.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>BOSS直聘PDF附件乱码，你不是一个人！解决方法分享！</title>
+    <title>BOSS直聘PDF附件乱码，解决方法分享！</title>
     <link href="https://www.orionwang.com/posts/boss-zhipin-pdf-attachment-garbled-solution/"/>
     <id>https://www.orionwang.com/posts/boss-zhipin-pdf-attachment-garbled-solution/</id>
     <published>2024-10-21T04:08:54.000Z</published>
-    <updated>2024-10-21T04:18:15.969Z</updated>
+    <updated>2024-10-21T04:25:47.996Z</updated>
     
     <content type="html"><![CDATA[<p>上传到Boss 直聘的PDF 简历解析乱码？  一个方法帮你解决。</p><p>🫸不要使用直接输出为PDF ，而是点击文件&gt;打印，在打印的对话框中点击PDF后选择保存。把保存的pdf再上传到Boss直聘，这样预览附件简历不会乱码了。</p><p><img src="https://raw.githubusercontent.com/Alanrk/blogimg/main/Snipaste_2024-10-21_11-52-01.png"></p><p><img src="https://raw.githubusercontent.com/Alanrk/blogimg/main/Snipaste_2024-10-21_11-54-12.png"></p>]]></content>
     
