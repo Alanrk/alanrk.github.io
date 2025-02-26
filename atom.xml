@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>OrionWang</title>
+  <title>慢鲸</title>
   
-  <subtitle>Blog</subtitle>
+  <subtitle>博客</subtitle>
   <link href="https://www.orionwang.com/atom.xml" rel="self"/>
   
   <link href="https://www.orionwang.com/"/>
@@ -10,7 +10,7 @@
   <id>https://www.orionwang.com/</id>
   
   <author>
-    <name>orionwang</name>
+    <name>sowhale</name>
     
   </author>
   
