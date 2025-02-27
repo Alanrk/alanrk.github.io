@@ -3,11 +3,11 @@
   <title>慢鲸</title>
   
   <subtitle>慢思考，深探索，广连接</subtitle>
-  <link href="https://www.orionwang.com/atom.xml" rel="self"/>
+  <link href="https://www.sowhale.me/atom.xml" rel="self"/>
   
-  <link href="https://www.orionwang.com/"/>
+  <link href="https://www.sowhale.me/"/>
   <updated>2025-01-23T06:28:25.995Z</updated>
-  <id>https://www.orionwang.com/</id>
+  <id>https://www.sowhale.me/</id>
   
   <author>
     <name>sowhale</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>懒猫书签清理，从0到4000+用户：一次&quot;最小可爱产品&quot;实验复盘</title>
-    <link href="https://www.orionwang.com/posts/minimum-loveable-product-experiment-retrospective/"/>
-    <id>https://www.orionwang.com/posts/minimum-loveable-product-experiment-retrospective/</id>
+    <link href="https://www.sowhale.me/posts/minimum-loveable-product-experiment-retrospective/"/>
+    <id>https://www.sowhale.me/posts/minimum-loveable-product-experiment-retrospective/</id>
     <published>2025-01-23T06:18:46.000Z</published>
     <updated>2025-01-23T06:28:25.995Z</updated>
     
@@ -34,16 +34,16 @@
     
     
     
-    <category term="Tabmark" scheme="https://www.orionwang.com/tags/Tabmark/"/>
+    <category term="Tabmark" scheme="https://www.sowhale.me/tags/Tabmark/"/>
     
-    <category term="懒猫书签清理" scheme="https://www.orionwang.com/tags/%E6%87%92%E7%8C%AB%E4%B9%A6%E7%AD%BE%E6%B8%85%E7%90%86/"/>
+    <category term="懒猫书签清理" scheme="https://www.sowhale.me/tags/%E6%87%92%E7%8C%AB%E4%B9%A6%E7%AD%BE%E6%B8%85%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>BOSS直聘PDF附件乱码，解决方法分享！</title>
-    <link href="https://www.orionwang.com/posts/boss-zhipin-pdf-attachment-garbled-solution/"/>
-    <id>https://www.orionwang.com/posts/boss-zhipin-pdf-attachment-garbled-solution/</id>
+    <link href="https://www.sowhale.me/posts/boss-zhipin-pdf-attachment-garbled-solution/"/>
+    <id>https://www.sowhale.me/posts/boss-zhipin-pdf-attachment-garbled-solution/</id>
     <published>2024-10-21T04:08:54.000Z</published>
     <updated>2024-10-21T04:25:47.996Z</updated>
     
@@ -60,14 +60,14 @@
     
     
     
-    <category term="小技巧" scheme="https://www.orionwang.com/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
+    <category term="小技巧" scheme="https://www.sowhale.me/tags/%E5%B0%8F%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
   <entry>
     <title>Tabmark-Bookmark New Tab</title>
-    <link href="https://www.orionwang.com/posts/Tabmark-Bookmark-New-Tab/"/>
-    <id>https://www.orionwang.com/posts/Tabmark-Bookmark-New-Tab/</id>
+    <link href="https://www.sowhale.me/posts/Tabmark-Bookmark-New-Tab/"/>
+    <id>https://www.sowhale.me/posts/Tabmark-Bookmark-New-Tab/</id>
     <published>2024-08-15T15:58:29.000Z</published>
     <updated>2024-09-24T11:23:21.992Z</updated>
     
@@ -84,16 +84,16 @@
     
     
     
-    <category term="浏览器拓展" scheme="https://www.orionwang.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8B%93%E5%B1%95/"/>
+    <category term="浏览器拓展" scheme="https://www.sowhale.me/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8B%93%E5%B1%95/"/>
     
-    <category term="Tabmark" scheme="https://www.orionwang.com/tags/Tabmark/"/>
+    <category term="Tabmark" scheme="https://www.sowhale.me/tags/Tabmark/"/>
     
   </entry>
   
   <entry>
     <title>BossFinder-一键快速搜公司</title>
-    <link href="https://www.orionwang.com/posts/BossFinder-%E4%B8%80%E9%94%AE%E5%BF%AB%E9%80%9F%E6%90%9C%E5%85%AC%E5%8F%B8/"/>
-    <id>https://www.orionwang.com/posts/BossFinder-%E4%B8%80%E9%94%AE%E5%BF%AB%E9%80%9F%E6%90%9C%E5%85%AC%E5%8F%B8/</id>
+    <link href="https://www.sowhale.me/posts/BossFinder-%E4%B8%80%E9%94%AE%E5%BF%AB%E9%80%9F%E6%90%9C%E5%85%AC%E5%8F%B8/"/>
+    <id>https://www.sowhale.me/posts/BossFinder-%E4%B8%80%E9%94%AE%E5%BF%AB%E9%80%9F%E6%90%9C%E5%85%AC%E5%8F%B8/</id>
     <published>2024-08-01T01:00:55.000Z</published>
     <updated>2024-08-15T15:57:18.446Z</updated>
     
@@ -109,14 +109,14 @@
     
     
     
-    <category term="浏览器拓展" scheme="https://www.orionwang.com/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8B%93%E5%B1%95/"/>
+    <category term="浏览器拓展" scheme="https://www.sowhale.me/tags/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8B%93%E5%B1%95/"/>
     
   </entry>
   
   <entry>
     <title>Cloudflare如何设置主域名跳转到www域名</title>
-    <link href="https://www.orionwang.com/posts/Cloudflare%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E4%B8%BB%E5%9F%9F%E5%90%8D%E8%B7%B3%E8%BD%AC%E5%88%B0www%E5%9F%9F%E5%90%8D/"/>
-    <id>https://www.orionwang.com/posts/Cloudflare%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E4%B8%BB%E5%9F%9F%E5%90%8D%E8%B7%B3%E8%BD%AC%E5%88%B0www%E5%9F%9F%E5%90%8D/</id>
+    <link href="https://www.sowhale.me/posts/Cloudflare%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E4%B8%BB%E5%9F%9F%E5%90%8D%E8%B7%B3%E8%BD%AC%E5%88%B0www%E5%9F%9F%E5%90%8D/"/>
+    <id>https://www.sowhale.me/posts/Cloudflare%E5%A6%82%E4%BD%95%E8%AE%BE%E7%BD%AE%E4%B8%BB%E5%9F%9F%E5%90%8D%E8%B7%B3%E8%BD%AC%E5%88%B0www%E5%9F%9F%E5%90%8D/</id>
     <published>2024-07-13T02:26:19.000Z</published>
     <updated>2024-08-15T15:53:35.381Z</updated>
     
@@ -131,16 +131,16 @@
     
     
     
-    <category term="域名管理" scheme="https://www.orionwang.com/tags/%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86/"/>
+    <category term="域名管理" scheme="https://www.sowhale.me/tags/%E5%9F%9F%E5%90%8D%E7%AE%A1%E7%90%86/"/>
     
-    <category term="博客搭建" scheme="https://www.orionwang.com/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    <category term="博客搭建" scheme="https://www.sowhale.me/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
     
   </entry>
   
   <entry>
     <title>豆包Mac客户端的一些体验问题和想法</title>
-    <link href="https://www.orionwang.com/posts/%E8%B1%86%E5%8C%85MAC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%93%E9%AA%8C%E9%97%AE%E9%A2%98%E5%92%8C%E6%83%B3%E6%B3%95/"/>
-    <id>https://www.orionwang.com/posts/%E8%B1%86%E5%8C%85MAC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%93%E9%AA%8C%E9%97%AE%E9%A2%98%E5%92%8C%E6%83%B3%E6%B3%95/</id>
+    <link href="https://www.sowhale.me/posts/%E8%B1%86%E5%8C%85MAC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%93%E9%AA%8C%E9%97%AE%E9%A2%98%E5%92%8C%E6%83%B3%E6%B3%95/"/>
+    <id>https://www.sowhale.me/posts/%E8%B1%86%E5%8C%85MAC%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%9A%84%E4%B8%80%E4%BA%9B%E4%BD%93%E9%AA%8C%E9%97%AE%E9%A2%98%E5%92%8C%E6%83%B3%E6%B3%95/</id>
     <published>2024-07-11T22:51:14.000Z</published>
     <updated>2024-08-15T15:53:02.345Z</updated>
     
@@ -155,14 +155,14 @@
     
     
     
-    <category term="产品体验" scheme="https://www.orionwang.com/tags/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/"/>
+    <category term="产品体验" scheme="https://www.sowhale.me/tags/%E4%BA%A7%E5%93%81%E4%BD%93%E9%AA%8C/"/>
     
   </entry>
   
   <entry>
     <title>Hexo-theme-onenote</title>
-    <link href="https://www.orionwang.com/posts/Hexo-theme-onenote/"/>
-    <id>https://www.orionwang.com/posts/Hexo-theme-onenote/</id>
+    <link href="https://www.sowhale.me/posts/Hexo-theme-onenote/"/>
+    <id>https://www.sowhale.me/posts/Hexo-theme-onenote/</id>
     <published>2024-06-16T08:33:50.000Z</published>
     <updated>2024-08-15T15:52:15.683Z</updated>
     
@@ -178,7 +178,7 @@
     
     
     
-    <category term="Hexo主题" scheme="https://www.orionwang.com/tags/Hexo%E4%B8%BB%E9%A2%98/"/>
+    <category term="Hexo主题" scheme="https://www.sowhale.me/tags/Hexo%E4%B8%BB%E9%A2%98/"/>
     
   </entry>
   
