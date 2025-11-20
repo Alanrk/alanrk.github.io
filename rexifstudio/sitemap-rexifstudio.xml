@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <!-- Rexif Studio English Homepage -->
+    <url>
+        <loc>https://sowhale.me/rexifstudio/en/</loc>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://sowhale.me/rexifstudio/zh-cn/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sowhale.me/rexifstudio/zh-tw/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sowhale.me/rexifstudio/en/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://sowhale.me/rexifstudio/ja/"/>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Rexif Studio Chinese (Simplified) Homepage -->
+    <url>
+        <loc>https://sowhale.me/rexifstudio/zh-cn/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sowhale.me/rexifstudio/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sowhale.me/rexifstudio/zh-tw/"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://sowhale.me/rexifstudio/zh-cn/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://sowhale.me/rexifstudio/ja/"/>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Rexif Studio Chinese (Traditional) Homepage -->
+    <url>
+        <loc>https://sowhale.me/rexifstudio/zh-tw/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sowhale.me/rexifstudio/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://sowhale.me/rexifstudio/zh-cn/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sowhale.me/rexifstudio/zh-tw/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://sowhale.me/rexifstudio/ja/"/>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <!-- Rexif Studio Japanese Homepage -->
+    <url>
+        <loc>https://sowhale.me/rexifstudio/ja/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sowhale.me/rexifstudio/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://sowhale.me/rexifstudio/zh-cn/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sowhale.me/rexifstudio/zh-tw/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://sowhale.me/rexifstudio/ja/"/>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Root Directory -->
+    <url>
+        <loc>https://sowhale.me/rexifstudio/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://sowhale.me/rexifstudio/en/"/>
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://sowhale.me/rexifstudio/zh-cn/"/>
+        <xhtml:link rel="alternate" hreflang="zh-TW" href="https://sowhale.me/rexifstudio/zh-tw/"/>
+        <xhtml:link rel="alternate" hreflang="ja" href="https://sowhale.me/rexifstudio/ja/"/>
+        <lastmod>2025-11-20</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

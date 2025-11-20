@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <!-- 品牌色：从 #10B981（Teal-500）到 #0D9488（Teal-600） -->
+    <linearGradient id="bgBrand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="100%" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+  <!-- 背板：圆角方形（近似 squircle） -->
+  <rect x="0" y="0" width="1024" height="1024" rx="220" fill="url(#bgBrand)"/>
+
+  <!-- 镜头外环 -->
+  <circle cx="512" cy="512" r="280" fill="none" stroke="#FFFFFF" stroke-width="56" opacity="0.92"/>
+  <!-- 微弱内环，增加层次 -->
+  <circle cx="512" cy="512" r="180" fill="none" stroke="#FFFFFF" stroke-width="18" opacity="0.24"/>
+
+  <!-- 信息符号 i（居中） -->
+  <circle cx="512" cy="430" r="26" fill="#FFFFFF"/>
+  <rect x="488" y="470" width="48" height="170" rx="24" fill="#FFFFFF"/>
+</svg>
+
