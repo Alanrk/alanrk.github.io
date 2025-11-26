@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://sowhale.me/sitemap.xml
-Sitemap: https://sowhale.me/rexifstudio/sitemap-rexifstudio.xml
